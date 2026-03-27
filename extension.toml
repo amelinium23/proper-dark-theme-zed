@@ -1,0 +1,7 @@
+id = "proper-dark-theme"
+name = "Proper Dark Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["amelinium23"]
+description = "Proper Dark Theme"
+repository = "https://github.com/amelinium23/proper-dark-theme-zed"
